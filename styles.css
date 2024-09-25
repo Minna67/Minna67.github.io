@@ -11,6 +11,20 @@ h1 {
     font-family: fantasy;
 }
 
+/*.projects 
+{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.project
+{
+    width: margin;
+    padding
+    background
+    border raduius
+}*/
+
 /*affect all h2 tags*/
 h2 {
     font-family: cursive;
