@@ -1,17 +1,17 @@
 /* Make the whole background red */
 body {
-    background: lightslategray;
+    background: rgb(196, 225, 255);
     font-family: Arial, Helvetica, sans-serif
 }
 
 /* affects all h1 tags */
 h1 {
     text-align: center;
-    color: rgb(191, 222, 136);
+    color: rgb(5, 19, 80);
     font-family: fantasy;
 }
 
-/*.projects 
+.projects 
 {
     display:flex;
     flex-wrap:wrap;
@@ -19,11 +19,12 @@ h1 {
 
 .project
 {
-    width: margin;
-    padding
-    background
-    border raduius
-}*/
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: rgb(255, 218, 218);
+    border-radius: 25%;
+    }
 
 /*affect all h2 tags*/
 h2 {
