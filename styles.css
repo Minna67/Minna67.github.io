@@ -32,3 +32,11 @@ h2 {
     color: rgb(202, 179, 122);
     font-size: 25px;
 }
+.projects img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(126, 14, 201); /* choose a color */
+    display: block;
+    margin: auto;
+    }
